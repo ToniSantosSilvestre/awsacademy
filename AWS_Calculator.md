@@ -35,6 +35,7 @@ Cal implementar un pressupost per a la regió Europe(Spain) **per a un any** per
 
 - Tots els treballadors amb categoria "Manager" i "Employee" disposaran d'unes màquines EC2 instàncies compartides, que disposen de sistemes GNU/Linux, 2 CPUs i 4 GiB de RAM. El seu disc serà un SSD d'1 TB
 - Per als "CEO" i "Owner" , es diposa d'unes màquines dedicades EC2 amb GNU/Linux, 1 CPU i 8 GiB de RAM i SSD d'1TB.
+- A banda, hi ha dos servidros amb Windows Server amb 2 nuclis, 8 GiB de RAM i una velocitat de transferència de fins 10 Gb/s
 - Un servei de xarxa VPC amb característiques activades de "Connexió VPN", "IPv4 Pública".
 - La base de dades s'implementa sobre un servei RDS que munta a demanda una base de dades MySQL amb una instància db.m5.12xlarge amb 48 CPUs i 192 GiB
 
