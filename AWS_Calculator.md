@@ -17,7 +17,7 @@ typora-copy-images-to:${filename}/../assets
 
 Sobre una empresa amb un organigrama com el següent:
 
-![Organigrama de l'empresa](/assets/organigrama.png)
+![Organigrama de l'empresa](/assets/aws/organigrama.png)
 
 ### 1.1 Realitza les següents estimacions de cost d'implantació al núvol:
 
